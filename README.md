@@ -1,6 +1,6 @@
 # Microsoft-Developer-Resources-Azure Synapse Analytics
 ![MS_2525_CDS_RegBanner_DevTools_1920x300 (1)](https://user-images.githubusercontent.com/107423518/180083692-13dcdf47-0f75-4aaf-b50e-5d037f611206.jpg)
- Explore on how to use Azure Synpase Analytics, dive deeper into the capabilities and  experience through a Hands-On-Lab.
+ Explore on how to use Azure Synapse Analytics, dive deeper into the capabilities and experience through a Hands-On-Lab.
 
 ## Featured Content
 Learn with Microsoft through these programs to take your technical skills to the next level!
