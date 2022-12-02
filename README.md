@@ -9,6 +9,7 @@ Learn with Microsoft through these programs to take your technical skills to the
 | [Azure Synapse Analytics Lab in a Day - LAB CONTENT DETAILS](https://github.com/solliancenet/azure-synapse-analytics-day) | Lab detailed documentation. |
 | [Azure Synapse Analytics Lab in a Day - LAB PREVIEW](https://experience.cloudlabs.ai/#/labguidepreview/614f09b1-3495-48c8-a9a6-c224db3eda3a) | Dive deeper into capabilities and demo of Azure Synapse Analytics, check the detailed content included in the hands-on-lab. |
 | [Azure Synapse Analytics: Documentation](https://learn.microsoft.com/en-us/azure/synapse-analytics/) | Product documentation|
+| [Azure Synapse Analytics: Analytics Presenter Deck](https://assetsprod.microsoft.com/mpn/nl-nl/aiw-analytics-workshop-deck.pptx) | PowerPoint presentation|
 ---
 
 ## Stay Connected with Microsoft - Microsoft .Source Newsletter
